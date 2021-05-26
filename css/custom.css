@@ -1,0 +1,18 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+.skill-area h4 {
+	color: black;
+}
+
+.skill-area .skill-info {
+    border-left: 1px solid rgb(19 18 18 / 32%);
+}
+.skills li .progress, .dark .skills li .progress-percent {
+    background-color: #8899a1 !important;
+}
