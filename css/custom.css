@@ -16,3 +16,9 @@
 .skills li .progress, .dark .skills li .progress-percent {
     background-color: #8899a1 !important;
 }
+
+.skill-area .skill-info span {
+    display: block;
+    margin-top: 10px;
+    font-size: 17px;
+}
